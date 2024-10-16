@@ -1,7 +1,7 @@
 name: Step 0, Welcome
 
 # This step triggers after the learner creates a new repository from the template
-# This workflow updates from step 0 to step 1.
+
 
 # When creating a repository from a template, there is variability in the
 # order and timing of events that fire and when workflow triggers are registered.
